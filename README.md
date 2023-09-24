@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repo](https://github.com/girldocode/qr-code-fr-mentor)
+- Live Site URL: [Demo](https://qr-code-fr-mentor.vercel.app/)
 
 ## My process
 
